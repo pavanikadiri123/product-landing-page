@@ -1,0 +1,22 @@
+.features-section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .features-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  
+  .feature {
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .feature img {
+    max-width: 100%;
+    height: auto;
+  }
+  

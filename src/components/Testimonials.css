@@ -1,0 +1,19 @@
+.testimonials-section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .testimonials-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .testimonial {
+    background: #f4f4f4;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
